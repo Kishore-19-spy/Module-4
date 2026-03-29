@@ -17,7 +17,6 @@ class cse:
         print(3.14*r*r)
 r=float(input())
 obj=cse()
-obj.mech(r)
 ```
 
 ## Output
